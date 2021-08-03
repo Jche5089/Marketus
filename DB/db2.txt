@@ -1,0 +1,76 @@
+
+
+
+ INSERT INTO matching_camp VALUES(52, 6, 'ROMnND', 'marong_beauty', 'xiaxia', 0,90,0);
+ INSERT INTO matching_camp VALUES(53, 6, 'ROMnND', 'u__girin', 'xiaxia', 0,99,0);
+ INSERT INTO matching_camp VALUES(54, 6, 'ROMnND', 'cosmetic_kenny', 'xiaxia', 0,99,0);
+ INSERT INTO matching_camp VALUES(55, 6, 'ROMnND', 'ranggg__313', 'xiaxia', 0,98,0);
+ INSERT INTO matching_camp VALUES(56, 6, 'ROMnND', 'everyou_', 'xiaxia', 0,95,0);
+ INSERT INTO matching_camp VALUES(57, 6, 'ROMnND', 'mellmay.bt', 'xiaxia', 0,88,0);
+ INSERT INTO matching_camp VALUES(58, 6, 'ROMnND', 'j._.hari', 'xiaxia', 0,83,0);
+
+
+INSERT INTO campaign VALUES(1, 'dlgofl85', 'P', 1000000, 2700, 20, 'F', 'FA', 'ZARA', 'New Campaign Collection', 5, 8, '210516', '210608', 2);
+INSERT INTO campaign VALUES(2, 'iammingki', 'P', 1500000, 2000, 0, 'A', 'FD', 'VIPS', '폭립까지 마음껏', 9, 14, '210518', '210610', 2);
+INSERT INTO campaign VALUES(3, 'yunho2154', 'F', 500000, 1700, 0, 'A', 'FD', 'Yeopgi Tteok Bokki', '최애메뉴 자랑하기', 5, 8, '210517', '210609', 2);
+INSERT INTO campaign VALUES(4, 'changmin88', 'F', 800000, 1800, 0, 'A', 'FD', '7th Pizza', '내 입맛을 사로잡은 메뉴 공유', 8, 12, '210519', '210611', 0);
+INSERT INTO campaign VALUES(5, 'changmin88', 'P', 900000, 2300, 20, 'M', 'FA', 'TOP TEN.MANS', '감각적인 착샷을 삽니다', 5, 8, '210520', '210612', 0);
+INSERT INTO campaign VALUES(6, 'xiaxia', 'F', 700000, 2100, 0, 'F', 'BT', 'ROMnND', 'ROMNND 글리터 협찬 뷰티 인플루언서 모집', 5, 8, '210521', '210613', 0);
+INSERT INTO campaign VALUES(7, 'xiaxia', 'P', 800000, 2800, 0, 'F', 'BT', 'STYLENANDA', '피부를 촉촉하게 가꿔요', 9, 14, '210522', '210614', 0);
+INSERT INTO campaign VALUES(8, 'xiaxia', 'F', 600000, 3800, 20, 'F', 'BT', 'MAC', '코스메틱 추천 이벤트', 6, 9, '210523', '210615', 0);
+INSERT INTO campaign VALUES(9, 'yunho2154', 'P', 900000, 2700, 30, 'F', 'BT', 'INNISFREE', '이니 메이크업 크루 모집', 5, 8, '210524', '210616', 0);
+INSERT INTO campaign VALUES(10, 'heize', 'F', 1000000, 3200, 20, 'F', 'BT', 'BANILA CO', '데일리 메이크업 고수되기', 7, 10, '210525', '210617', 0);
+INSERT INTO campaign VALUES(11, 'changmin88', 'P', 800000, 1500, 30, 'A', 'FA', 'EFF Fashion', '데일리 코디 챌린지', 5, 8, '210526', '210618', 0);
+INSERT INTO campaign VALUES(12, 'heize', 'P', 1200000, 2900, 20, 'A', 'FA', 'NIKE JUST DO IT', 'NIKE 착샷 포스팅하면, 선물 증정', 8, 12, '210527', '210619', 0);
+INSERT INTO campaign VALUES(13, 'xiaxia', 'F', 500000, 2400, 0, 'A', 'FD', 'RYAN X Ramyeon', 'JMT 레시피를 공유해 주세요', 7, 10, '210528', '210620', 0);
+
+
+
+Insert into influencer_mbr values('aaa','bbb','sdf',20,'male','kdhuynna','010232',0,20,'male','food',0,100,1);
+INSERT INTO influencer_mbr VALUES('heeruring', 'uu', '박희수', 32, 'F', 'instagram.com/heeruring/', 10, '01011311111', 20, 'F', 'BT', 0, 100, 1);
+INSERT INTO influencer_mbr VALUES('sun_ho0', 'aa', '이선호', 28, 'M', 'instagram.com/sun_ho0/', 10, '01011111111', 20, 'M', 'FA', 0, 50, 1);
+
+INSERT INTO advertiser_mbr VALUES('xiaxia', 'bb', '김준수', 'office.com/xiaxia/', 010122231111, 1);
+Insert into advertiser_mbr  values('zzz','zzz','sdf','kdhuynna','010232',1);
+
+
+INSERT INTO influencer_mbr VALUES('marong_beauty', 'vv', '이지혜', 28, 'F', 'instagram.com/marong_beauty/', 10, '01011321111', 20, 'F', 'BT', 0, 0, 0);
+INSERT INTO influencer_mbr VALUES('u__girin', 'ww', '유기린', 29, 'F', 'instagram.com/u__girin/', 10, '01011331111', 20, 'F', 'BT', 0, 0, 0);
+INSERT INTO influencer_mbr VALUES('everyou_', 'zz', '김다니', 25, 'F', 'instagram.com/everyou_/', 10, '01011361111', 20, 'F', 'BT', 0, 0, 0);
+INSERT INTO influencer_mbr VALUES('cosmetic_kenny', 'xx', '김케니', 24, 'F', 'instagram.com/cosmetic_kenny/', 10, '01011341111', 20, 'F', 'BT', 0, 0, 0);
+
+
+
+
+
+Insert into influencer_report values('aaa',20,100,500,400,40,100,10,40,40,10,80,20,10,8,12,34,21,10,8,30,40,20,10,20,30,40,50,60,70,10,20,30,40,50,10,20,30,40,50,60,20,30,40,50,60,70);
+
+
+Insert into influencer_report values('sun_ho0',20,100,500,400,40,100,10,40,40,10,80,20,10,8,12,34,21,10,8,30,40,20,10,20,30,40,50,60,70,10,20,30,40,50,10,20,30,40,50,60,20,30,40,50,60,70);
+Insert into influencer_report values('heeruring',20,100,500,400,40,100,10,40,40,10,80,20,10,8,12,34,21,10,8,30,40,20,10,20,30,40,50,60,70,10,20,30,40,50,10,20,30,40,50,60,20,30,40,50,60,70);
+
+
+
+
+
+
+
+
+
+insert into influencer_insta  values('sun_ho0',247,6138,899,' 협찬',3069,3069,10);
+insert into influencer_insta  values('taexxhwanss',116,6364,1780,' 협찬',3245,3118,10);
+insert into influencer_insta  values('jh_97_daily',48,5477,2837,'믹스디 서포터즈 기댕글드랍 서포터즈 기모든 협찬문의는 으로 부탁드립니다',3340,2136,10);
+insert into influencer_insta  values('daily_hoony',41,1590,862,' 여행  데일리    일기장 처럼 옷을 기록 하는 남자 패션 계정은 디엠 주세요    ',1494,95,10);
+insert into influencer_insta  values('othsns',148,4907,1847,'꾸안꾸 남친룩협찬 문의 디엠',3631,1275,10);
+
+insert into influencer_insta  values('c.ssung',179,4849,1961,'좋아하는 착장과 다양한 제품 정보를 소개해드립니다착장 문의는 ',3394,1454,10);
+insert into influencer_insta  values('daily_jeonghun',286,4552,2537,'   반려견                          ',2867,1684,10);
+insert into influencer_insta  values('tomj_park',419,9430,3166,'   협찬문의   ',5375,4054,10);
+insert into influencer_insta  values('ws.want',170,5115,987,'뒤죽박죽 스타일 낙서장  문의   ',3324,1790,10);
+
+
+
+
+
+
+commit;
